@@ -1,0 +1,23 @@
+{
+  "name": "myweb",
+  "version": "1.0.0",
+  "description": "\"# myweb\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suttida105/myweb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suttida105/myweb/issues"
+  },
+  "homepage": "https://github.com/suttida105/myweb#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
